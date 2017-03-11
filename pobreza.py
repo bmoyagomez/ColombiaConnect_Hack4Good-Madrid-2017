@@ -10,10 +10,10 @@ import pandas as pd
 # import numpy as np
 # import csv as csv
 
-filename1 = "C:\\Users\\b o r j a\\Desktop\\Hack4good\\9bf31c7ff062936a96d3c8bd1f8f2ff3\\hack4good_dwells.csv"
-filename2 = "C:\\Users\\b o r j a\\Desktop\\Hack4good\\9bf31c7ff062936a96d3c8bd1f8f2ff3\\hack4good_antenas.csv"
+filename1 = ""
+filename2 = ""
 
-output = "C:\\Users\\b o r j a\\Desktop\\Hack4good\\9bf31c7ff062936a96d3c8bd1f8f2ff3\\pobreza.csv"
+output = ""
 
 # n = 1122 #numero de municipios
 
